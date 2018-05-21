@@ -1,4 +1,4 @@
- using System;
+  using System;
  using System.Collections.Generic;
  using System.Linq;
  using System.Text;
@@ -84,6 +84,4 @@ static int BottomUpCutRod(int[] profit, int n)
         Console.WriteLine("Running time of BottomUpCutRod: {0}", time.ElapsedMilliseconds" );
              return r[n];
          }
-
-     
  }
